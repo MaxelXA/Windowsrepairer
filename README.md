@@ -1,12 +1,11 @@
-This is a Windows repairer, a simple tool that allows you to excute useful commands for file repair or checking for any corruption in the disk like CHKDSK, SFC or DISM...
+This is a Windows repair tool — a simple utility that lets you execute useful commands for file repair or corruption checks using CHKDSK, SFC, DISM, and more.
 
-As well as some other functionalities like cleaning temp files, resetting the network, cleaning the DNS Cache, etc...
+It also includes functionality for cleaning temp files, resetting the network, clearing the DNS cache, and similar maintenance tasks.
 
+While it's not a huge project, it can be useful for those who prefer not to type every command manually into CMD. With just a click of a button, it saves you time and effort.
 
-It's not that big of a project, but it might be useful for those who aren't interested in going and typing every command on the CMD, this is basically a shortcut, with a click of a button, it saves you time.
+Got ideas for a bigger project? Feel free to share them!
 
-If you have any ideas for a bigger project, please don't hesitate to suggest them.
-
-And while you're here, could you buy me a coffee? Every little bit counts.
+And while you're here — if you find this tool helpful, would you consider buying me a coffee? Every bit of support helps!
 
 https://ko-fi.com/majedbenmansour
